@@ -1,2 +1,3 @@
 # bookbot
-Repo for boot.dev python bootbot lesson
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
